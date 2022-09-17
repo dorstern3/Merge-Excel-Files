@@ -1,3 +1,3 @@
-### Merge several Excel files into one file
+# Merge several Excel files into one file
 
 ## Install
