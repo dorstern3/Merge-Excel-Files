@@ -1,4 +1,4 @@
 # Merge several Excel files into one file
 
-## Install
+## Install:
 python -m pip install pandas
